@@ -16,7 +16,7 @@ namespace CashierApplications
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPurchaseDiscountedItem());
+            Application.Run(new frmLoginAccount());
         }
     }
 }

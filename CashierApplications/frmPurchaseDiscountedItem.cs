@@ -52,5 +52,10 @@ namespace CashierApplications
                 MessageBox.Show("ERROR", "WARNING");
             }
         }
+
+        private void fileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
